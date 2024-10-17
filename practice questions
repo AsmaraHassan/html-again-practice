@@ -1,0 +1,58 @@
+//  Practice Tasks 
+// <!-- Here are some HTML practice questions involving tables and forms to help you strengthen your skills:
+
+// % Table Practice Questions:
+// % Create a Simple Table:
+
+// % Create a table with 3 rows and 4 columns.
+// % The first row should contain headers for "Name," "Age," "Email," and "Country."
+// % Fill the table with any data of your choice.
+// % Table with Merged Cells:
+
+// % Create a table that includes a header row spanning two columns.
+// % Add a footer row that spans across all columns.
+// % Styled Table:
+
+// % Create a table to display product details like "Product Name," "Price," and "Quantity."
+// % Style the table using CSS (borders, background color for the header, alternating row colors).
+// % Complex Table:
+
+// % Create a table to display class schedule information with "Day," "Subject," "Start Time," and "End Time."
+// % Merge cells for subjects that span across multiple days.
+// % Responsive Table:
+
+// % Design a table that displays book information ("Title," "Author," "Price").
+// % Use CSS to make the table responsive on smaller screens.
+
+
+
+
+
+// % Form Practice Questions:
+// % Simple Form:
+
+// % Create a form that takes user information like "First Name," "Last Name," "Email," and "Password."
+// % Include a submit button and reset button.
+// % Form with Validation:
+
+// % Create a form with fields for "Username," "Password," "Confirm Password," and "Email."
+// % Use HTML5 validation to ensure all fields are filled and that the email is in the correct format.
+// % Form with Dropdown, Radio, and Checkbox:
+
+// % Create a form for booking a flight that includes:
+// % Dropdowns for selecting departure city and destination city.
+// % Radio buttons to choose between "One-Way" or "Round Trip."
+// % Checkboxes to select meal preferences.
+// % Form with File Upload:
+
+// % Create a form that allows users to register by filling out personal details (name, email, etc.) and upload their profile picture.
+// % Multi-Step Form:
+
+// % Create a multi-step form where:
+// % Step 1 asks for personal information.
+// % Step 2 asks for address information.
+// % Step 3 asks for payment details.
+// % Each step should only be visible when the previous step is completed.
+// % Let me know if you'd like help with any of these exercises! -->
+
+
