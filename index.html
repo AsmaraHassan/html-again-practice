@@ -33,18 +33,119 @@
 
             <h1>Forms</h1>
             <form >
+                <fieldset>
+                    <legend>Enquiry</legend>
 
- name: <input type="text">
+ Name: <input type="text" name="name" placeholder="please enter your name ">
  <br><br>
-Address: <textarea></textarea>            
+Address: <textarea name="address"></textarea>   
+<br>
+<br>  
+Gender: 
+<input type="radio" value="m" name="gender" > Male
+<input type="radio" value="f" name="gender" >Female
+<br>
+<br>
+
+ 
+Country:
+<select >
+<option>Please select an option</option>
+       value is use when we use data base  
+ <option  value="england"> england</option>
+<optgroup label="Asia">
+    <option value="india"> india</option>
+    
+    <option value="Indonesia"> Indonesia</option>
+    
+    <option value="Malaysia"> Malaysia</option>
+</optgroup>
+
+</select>
+<br>  
+ 
+
+is mein mae ko hum array mein rakhty hai  
+ Hobbies: 
+
+<input type="checkbox" name ="Hobbies[]">Dancing
+<input type="checkbox" name ="Hobbies[]">Singing
+<input type="checkbox" name ="Hobbies[]">Sleeping
+<br>
+Image:
+<input type="file"name="Image"/>
+
+ <br><br>
+<input type="submit" value="send">
+
+<input type="reset" value="reset">
 
 
 
 
+</fieldset>
+
+</form>  
 
 
-</form>
-</body>
+
+<!-- 
+
+ <form>
+    <fieldset>
+        <legend>HTML 5</legend>
+        <input type="color" name="color">
+        <br>
+        <br>
+        Email:
+        <input type="email" name="email" >
+        <br><br>
+        Password:
+        <input type="password" name="password" >
+        <br><br>
+        Age:
+        <input type="number" name="age" >
+        <br><br>
+         user sy agr chupana hai we see using inspect 
+        secert:
+        <input type="hidden" name="secert" >        
+        
+
+        <input type="submit" name="send" >
+
+    </fieldset>
+</form>    -->
+
+
+
+<!-- Calender Element -->
+ <!-- <form>
+    <fieldset>
+        <legend>Calender</legend>
+        Date:
+        <input type="date" name="date">
+        <br>
+        <br>
+        Date Time : <input type="datetime-local"  >
+<br>
+        <br>
+        Time: <input type="time" name="time " >
+
+        <br>
+        <br>
+      Month:<input type="month" name="month " >
+
+      <br>
+      <br>
+    Week:<input type="week" name="week " >
+    <br>
+      <br>
+    Range:<input type="Range" name="Range " >
+    
+    </fieldset>
+ </form>
+ -->
+
 </html>
 
 
