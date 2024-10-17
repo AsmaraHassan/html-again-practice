@@ -32,23 +32,13 @@
 // 
 
 // % Form with Dropdown, Radio, and Checkbox:
-
+..
 // % Create a form for booking a flight that includes:
 // % Dropdowns for selecting departure city and destination city.
 // % Radio buttons to choose between "One-Way" or "Round Trip."
 // % Checkboxes to select meal preferences.
 
 
-// % Form with File Upload:
-
-// % Create a form that allows users to register by filling out personal details (name, email, etc.) and upload their profile picture.
-// % Multi-Step Form:
-
-// % Create a multi-step form where:
-// % Step 1 asks for personal information.
-// % Step 2 asks for address information.
-// % Step 3 asks for payment details.
-// % Each step should only be visible when the previous step is completed.
 
 
 
