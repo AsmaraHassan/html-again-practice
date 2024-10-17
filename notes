@@ -1,0 +1,36 @@
+                      NOTES
+
+tabel
+// %  Difference between Cellpadding and Cellspacing
+// %  Cellpadding:Cellpadding specifies the space between the border of a table cell and its contents (i.e)
+// %   it defines the whitespace between the cell edge and the content of the cell.(ander)
+
+// %  Syntax:
+// %  <table cellpadding="value" >.....</table>
+// %  where, value determines the padding 
+// %  (space between the border of a table and its content)
+// %  Cellspacing:Cellspacing specifies the space between cells (i.e) it defines the whitespace between the edges of the adjacent cells.(bahir)
+
+// %  Syntax:
+// %  <table cellspacing="value" >.....</table>
+// %  where, value determines the padding 
+// %  (space between adjacent cells) 
+ 
+
+
+
+
+// %        important to note that :- 
+// %          width="50" height="100"  yeh thead ko affect nhi kary ga means no chang
+        
+// %         row and colspan difference 
+// %           ROWSPAN is used to combine the cells vertically. It merges the number of cells vertically and 
+// %           displays them as a single cell. COLSPAN is used to combine the cells horizontally. 
+// %          It specifies the number of columns that the cells span across and shows them as a single cell. 
+
+
+
+// %                                  form
+// % An HTML form is a section of a document containing normal content, markup, special elements called controls
+// % (checkboxes, radio buttons, menus, etc.), and labels on those controls.
+
